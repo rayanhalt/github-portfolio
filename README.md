@@ -1,17 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Rayane!</h1>
-<h3 align="center">Estou em transição para a área de dados, possui um base sólida em análise e processamento de informações desenvolvida durante meu mestrado onde trabalhei com um bando de dados da área da saúde. Em 2024, concluí a formação em Engenharia de Analytics pela Indicium Academy, adquirindo domínio em SQL, Power BI e Python. Estou realizando meu primeiro projeto orientado por especialistas, o que reforça meu desenvolvimento e capacidade de atuação na área. Destaco também minha colaboração e adaptabilidade, fundamentais para o sucesso em projetos de dados. Sigo me aprimorando tecnicamente para contribuir com soluções de valor para o time e empresa onde estiver inserida.</h3>
+<h3 align="center">Estou em transição para a área de dados, possuo um base sólida em análise e processamento de informações desenvolvida durante meu mestrado onde trabalhei com um bando de dados da área da saúde. Sigo me aprimorando tecnicamente e aqui você acompanha meus aprendizados e habilidades em desenvolvimento!</h3>
 
-- 🌱 Atualmente estou estudando **Linguagem Python, SQL avançada e utilização de IA "A utilização de IA generativa para visando aprimoramento da eficiência operacional.**
-
-- 📝 A escrita é uma grande amiga e você pode me ler por aqui [https://medium.com/@rayanhalt](https://medium.com/@rayanhalt)
-
-- 📄 Saiba mais sobre meu passado de pesquisadora [http://lattes.cnpq.br/0880025025666091](http://lattes.cnpq.br/0880025025666091)
-
-- 💬 Me pergunte sobre corrida! **SQL, Power BI e ações orientadas pela análise estratégica de dados.**
+- 🌱 Atualmente estou estudando **Linguagem Python, SQL avançada e utilização de IA generativa para visando aprimoramento da eficiência operacional**
 
 - 📫 Me contate pelo e-mail **rs.anhalt@gmail.com**
-
-- ⚡ Fun fact [Uma das minhas maiores qualidades, as vezes não joga a meu favor: eu sou muito expressiva e as vezes cometo alguns "sincericídios"! -calma galera já melhorei muito](Uma das minhas maiores qualidades, as vezes não joga a meu favor: eu sou muito expressiva e as vezes cometo alguns "sincericídios"! -calma galera já melhorei muito)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
