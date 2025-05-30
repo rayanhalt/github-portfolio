@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Rayane!</h1>
 <h3 align="center">Em transição para a área de dados, com sólida base em análise e processamento de informações, desenvolvida durante meu mestrado, onde trabalhei com um banco de dados da área da saúde.
 
-🚀 Sigo me aprimorando tecnicamente — aqui você acompanha meus projetos, aprendizados e habilidades em desenvolvimento.</h3>
+🚀 
+Sigo me aprimorando tecnicamente — aqui você acompanha meus projetos, aprendizados e habilidades em desenvolvimento.</h3>
 
 🌱 Atualmente aprofundando competências em:
 
@@ -15,7 +16,7 @@
 
 - Aplicações de IA generativa para automação de fluxos e otimização de processos analíticos
 
-- 📫 Me contate pelo e-mail **rs.anhalt@gmail.com**
+ Me contate pelo e-mail **rs.anhalt@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
