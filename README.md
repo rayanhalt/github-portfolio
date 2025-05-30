@@ -1,7 +1,19 @@
 <h1 align="center">Olá 👋, Eu sou Rayane!</h1>
-<h3 align="center">Estou em transição para a área de dados, possuo um base sólida em análise e processamento de informações desenvolvida durante meu mestrado onde trabalhei com um bando de dados da área da saúde. Sigo me aprimorando tecnicamente e aqui você acompanha meus aprendizados e habilidades em desenvolvimento!</h3>
+<h3 align="center">Em transição para a área de dados, com sólida base em análise e processamento de informações, desenvolvida durante meu mestrado, onde trabalhei com um banco de dados da área da saúde.
 
-- 🌱 Atualmente estou estudando **Linguagem Python, SQL avançada e utilização de IA generativa para visando aprimoramento da eficiência operacional**
+🚀 Sigo me aprimorando tecnicamente — aqui você acompanha meus projetos, aprendizados e habilidades em desenvolvimento.</h3>
+
+🌱 Atualmente aprofundando competências em:
+
+- Python para análise exploratória de dados (EDA), modelagem preditiva, feature engineering e visualização de dados
+
+- Técnicas de data preprocessing, incluindo encoding, normalização e tratamento de dados ausentes
+
+- Model selection e avaliação de desempenho de algoritmos
+
+- SQL avançado para ETL e consultas complexas
+
+- Aplicações de IA generativa para automação de fluxos e otimização de processos analíticos
 
 - 📫 Me contate pelo e-mail **rs.anhalt@gmail.com**
 
